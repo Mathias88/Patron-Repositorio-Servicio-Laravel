@@ -1,2 +1,2 @@
-# laravel-patron-repositorios-servicios
-Simple example of implementation of repository and service patterns with Laravel 5.7
+# Patrón de Repositorio y Servicio con Laravel 5.7
+Simple ejemplo de implementación de los patrones de repositorios y servicios con Laravel 5.7
